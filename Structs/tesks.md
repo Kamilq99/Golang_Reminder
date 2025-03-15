@@ -14,7 +14,7 @@ Napisz funkcję, która zwróci osobę o największym wieku z listy.
 Dodaj metodę `Greet()` do struktury `Person`, która wypisze powitanie, np. _"Cześć, mam na imię Jan!"_.
 
 **Rozszerzenie:**  
-Dodaj metodę `IsAdult()`, która zwróci `true`, jeśli osoba ma 18 lat lub więcej.
+Dodaj metodę `IsAdulxt()`, która zwróci `true`, jeśli osoba ma 18 lat lub więcej.
 
 ---
 
