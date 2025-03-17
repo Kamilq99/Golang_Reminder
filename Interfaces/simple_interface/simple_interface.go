@@ -12,7 +12,7 @@ type Speaker interface {
 	Speak() string
 }
 
-func (c *Cat) Speak() string {
+func (c Cat) Speak() string {
 	fmt.Printf("%s says ", c.Name)
 	return "meow"
 }
